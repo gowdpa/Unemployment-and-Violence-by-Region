@@ -14,3 +14,6 @@ The repository contains:
   1. The original data set. It is a .csv file named "CountyHealthData2014-2015.csv"
   2. The smaller data subset. It is a .csv file named "UseableData_subset.csv"
   3. The Python notebook containing the process documentation of getting from the original data set to the subset.
+______________________________________________________________________
+### What's Next?
+After looking at the README page, navigate to the "CountyHealthData2014-2015.csv" file. This file includes the original dataset. To recreate this process used to create the data analyzed in this repository, download the data, then navigate to the "Creeating ipynb" where you will find the Process Documentation to follow along. This will guide you to read the same data outcome as "UseableData_subset.csv" or you can use the steps to guide you towards a similar comparison with different data values. 
