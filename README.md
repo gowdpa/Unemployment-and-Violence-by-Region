@@ -26,4 +26,5 @@ ______________________________________________________________________
 ### Maintainers and Contributors
 
 This repository is actively maintained by Paige Gowdy. Contributions from the community are highly welcome through pull requests.
+
 If you have any questions, encounter issues, or need assistance with the repository, feel free to Open an Issue on GitHub.
