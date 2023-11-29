@@ -17,3 +17,8 @@ The repository contains:
 ______________________________________________________________________
 ### What's Next?
 After looking at the README page, navigate to the "CountyHealthData2014-2015.csv" file. This file includes the original dataset. To recreate this process used to create the data analyzed in this repository, download the data, then navigate to the "Data_Subset_Creation_Through_Python.ipynb" where you will find the process documentation to follow along. This will guide you to read the same data outcome as "UseableData_subset.csv" or you can use the steps to guide you towards a similar comparison with different data values. 
+______________________________________________________________________
+### Maintainers and Contributors
+
+This repository is actively maintained by Paige Gowdy. Contributions from the community are highly welcome through pull requests.
+If you have any questions, encounter issues, or need assistance with the repository, feel free to Open an Issue on GitHub.
